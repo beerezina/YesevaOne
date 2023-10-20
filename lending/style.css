@@ -27,7 +27,7 @@
     .facade h3 {
         font-size: 42px;
     }
-    .cosmetics h4 {
+    .cosmetics h4, .perfume h4 {
         font-size: 38px;
     }
     .table {
